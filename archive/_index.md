@@ -27,6 +27,7 @@
 
 ## 索引
 
+- [011_呼吸する部屋_branch-discarded.md](011_呼吸する部屋_branch-discarded.md) — syosetu ep.11「呼吸する部屋」分岐旧稿
 - [012_通過_discarded.md](012_通過_discarded.md) — syosetu ep.12「通過」旧稿
 - [013_揺らぎながら接続する_discarded.md](013_揺らぎながら接続する_discarded.md) — syosetu ep.13「揺らぎながら接続する」旧稿
 - [014_痕跡_discarded.md](014_痕跡_discarded.md) — syosetu ep.14「痕跡」旧稿
