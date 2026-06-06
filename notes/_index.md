@@ -27,3 +27,4 @@
 ### 運用
 
 - [ep-011-rewrite-operations.md](ep-011-rewrite-operations.md) — 第十一話を書き直した後の GitHub 管理・連動更新チェックリスト
+- [unresolved-core-settings.md](unresolved-core-settings.md) — 発信元不明通知・保存区域・アミン同一性・恋愛方針・PONの仕事などの未確定/決定済みコア設定
