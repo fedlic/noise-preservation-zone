@@ -119,6 +119,7 @@
 - 第001〜011話は **共通ルート** のため、編集は必ず `main` で行う
 - 編集後、`route/*` ブランチへは `git merge main` で取り込む
 - 共通ルートを `route/*` 側だけで編集してはならない（ルート間の整合性が崩れる）
+- 共通ルート最終話である ep011 を大幅改稿する場合は、[notes/ep-011-rewrite-operations.md](notes/ep-011-rewrite-operations.md) の連動更新チェックリストに従う
 
 ---
 
