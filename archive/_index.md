@@ -27,4 +27,9 @@
 
 ## 索引
 
-- （未登録）
+- [012_通過_discarded.md](012_通過_discarded.md) — syosetu ep.12「通過」旧稿
+- [013_揺らぎながら接続する_discarded.md](013_揺らぎながら接続する_discarded.md) — syosetu ep.13「揺らぎながら接続する」旧稿
+- [014_痕跡_discarded.md](014_痕跡_discarded.md) — syosetu ep.14「痕跡」旧稿
+- [015_空白の重さ_discarded.md](015_空白の重さ_discarded.md) — syosetu ep.15「空白の重さ」旧稿
+- [016_分子として漂う_discarded.md](016_分子として漂う_discarded.md) — syosetu ep.16「分子として漂う」旧稿
+- [017_再同期_discarded.md](017_再同期_discarded.md) — syosetu ep.17「再同期」旧稿
