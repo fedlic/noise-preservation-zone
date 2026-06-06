@@ -42,6 +42,14 @@
 - 新規ディレクトリを作るときは必ず `_index.md` も作成
 - ファイルが増えたら `_index.md` の索引セクションを更新する
 
+### Canon / Lore 運用
+
+- Canon は、本編小説で実際に描写された事実のみとする
+- Lore は、AIが参照してよい世界設定・補助資料とする
+- 未確定の未来は `unknown` または `unresolved` として扱う
+- 本文にない重大設定を、設定資料だけで公式化しない
+- 詳細は [docs/canon_policy.md](docs/canon_policy.md) と [docs/ai_writing_rules.md](docs/ai_writing_rules.md) を参照
+
 ---
 
 ## 3. コミットメッセージ

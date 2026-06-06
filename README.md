@@ -50,10 +50,12 @@ noise-preservation-zone/
 ├── README.md              # このファイル
 ├── CONVENTIONS.md         # 命名・運用規約
 │
+├── docs/                  # AI執筆・Canon/Lore 運用ルール
 ├── main/                  # 本編（確定稿）
 │   └── NNN_<title>.md     # 3桁ゼロ埋め番号
 │
 ├── characters/            # 登場人物
+├── relationships/         # 人物間の関係性
 ├── world/                 # 世界観・舞台・テクノロジー
 ├── timeline/              # 時系列・年表
 ├── branches/              # 分岐ルートの説明（メタ情報）
@@ -170,8 +172,12 @@ noise-preservation-zone/
 ## クイックリンク
 
 - 運用規約: [CONVENTIONS.md](CONVENTIONS.md)
+- AI執筆・Canon/Lore運用: [docs/_index.md](docs/_index.md)
+- Canon / Lore ポリシー: [docs/canon_policy.md](docs/canon_policy.md)
+- AI執筆ルール: [docs/ai_writing_rules.md](docs/ai_writing_rules.md)
 - 分岐ルート一覧: [branches/_index.md](branches/_index.md)
 - 登場人物: [characters/_index.md](characters/_index.md)
+- 関係性: [relationships/_index.md](relationships/_index.md)
 - 世界観: [world/_index.md](world/_index.md)
 - 時系列: [timeline/_index.md](timeline/_index.md)
 - 映像化資料: [media/_index.md](media/_index.md)

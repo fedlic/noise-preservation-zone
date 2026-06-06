@@ -17,6 +17,11 @@
 
 ## 索引
 
+### 全体運用
+
+- [world_overview.md](world_overview.md) — 2030年前後・チェンマイ中心・すぐ隣の未来
+- [timeline.md](timeline.md) — 年表の運用ルール（未来を先に置かない）
+
 ### 概念・テクノロジー
 
 - [hud.md](hud.md) — 拡張視界、AR的UI
