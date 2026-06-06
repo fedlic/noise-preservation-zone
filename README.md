@@ -1,6 +1,6 @@
 # 保存区域 チェンマイ（noise-preservation-zone）
 
-> 作者：PON（上田哲也）
+> 作者：PON
 > 掲載：syosetu.com「ノイズ（仮）」
 > 管理：noise-preservation-zone
 
