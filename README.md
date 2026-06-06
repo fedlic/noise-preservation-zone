@@ -7,6 +7,14 @@
 チェンマイ滞在中の生活と思考を、十二の断章として保存するための区域。
 本文・推敲中の原稿・周辺メモを、ブランチとディレクトリで分離して管理する。
 
+## 経緯
+
+もともとは「小説家になろう」で連載していたが、AIを使った創作があまり歓迎されない雰囲気を感じたこと、そして途中で巻き戻したり別ラインに分岐させたくなる場面が増えてきたため、GitHub で版管理する方針に切り替えた。
+
+## Background
+
+Originally serialized on [syosetu.com](https://syosetu.com/) (Shōsetsuka ni Narō), but moved to GitHub-based version control — partly because AI-assisted writing didn't feel particularly welcomed there, and partly because I wanted the freedom to rewind the story or branch it into alternate routes mid-way through.
+
 ## ブランチ構成
 
 | ブランチ | 内容 |
