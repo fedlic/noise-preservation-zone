@@ -29,4 +29,14 @@
 
 ## 索引
 
-- （未登録）
+### 主要人物
+
+- [pon.md](pon.md) — 視点人物、AI黎明期の元当事者
+- [amin.md](amin.md) — KL系の寡黙な先行者
+- [shion.md](shion.md) — 半日本人、元生態学者
+- [kenji.md](kenji.md) — 東京の旧知、最適化された安定
+- [young-monk.md](young-monk.md) — 寺の若い僧侶、配信僧
+
+### サブキャラクター
+
+- [_minor.md](_minor.md) — 名前なし・単発登場の人物一覧
